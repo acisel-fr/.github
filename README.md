@@ -7,4 +7,4 @@ Notre blog est ouvert depuis peu : https://acisel.chasset.net
 Nous avons à diposition deux logiciels libres sous licence MIT :
 
 - notre propre [logiciel](https://github.com/acisel-chasset-net/sbm) de blog
-- une application collaborative en ligne dédiée aux discussions dans les trains : [Application](https://mobitweet.liser.lu) et [Logiciel]().
+- une application collaborative en ligne dédiée aux discussions dans les trains : [Application](https://mobitweet.liser.lu) et [Logiciel](https://github.com/acisel-chasset-net/mobitweet).
