@@ -2,7 +2,9 @@
 
 Notre blog vise à aider tout un chacun à comprendre comment nous pouvons acquérir des connaissances à partir de données issues des réseaux sociaux en ligne. Nous répertorions les enjeux, explicitons les données et les algorithmes à la disposition de tous. Nous faisons un point théorique pour exercer cette activité, listons les collectes réalisés et dressons les protocoles de recherche. Enfin, nous exposons nos résultats liés à des évènements majeurs ou locaux et à des cultures émergentes. Nous terminons en proposant de dynamiser ces interactions par l’utilisation d’outils collaboratifs comme une application en ligne.
 
-Notre blog est ouvert depuis peu : https://acisel.chasset.net
+## Actualités
+
+Notre [blog](https://acisel.chasset.net) est ouvert depuis peu.
 
 Nous avons à diposition deux logiciels libres sous licence MIT :
 
