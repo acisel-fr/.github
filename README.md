@@ -13,4 +13,4 @@ Notre blog vise à aider tout un chacun à comprendre comment nous pouvons acqu�
 
 ## Actualités
 
-Retrouvez nos actualités dans la section [Discussions](https://github.com/acisel-chasset-net/ACISEL/discussions) de cette page.
+Retrouvez nos actualités dans la section [Discussions](https://github.com/acisel-fr/ACISEL/discussions) de cette page.
