@@ -1,4 +1,4 @@
-![logo](acisel-50.png)
+![logo](/bandeau.png)
 
 ## Présentation
 
