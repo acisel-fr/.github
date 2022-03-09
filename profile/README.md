@@ -10,7 +10,3 @@ Nous visons à aider tout un chacun à comprendre comment nous pouvons acquérir
 - Organiser des évènements en ligne
 - Favoriser l’expression artistique
 - Développer des outils
-
-## Actualités
-
-Retrouvez nos actualités dans la section [Discussions](https://github.com/acisel-fr/ACISEL/discussions) de cette page.
